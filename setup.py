@@ -2,7 +2,7 @@
 from setuptools import setup
 
 packages = \
-['pyln.proto']
+['pyln.proto', 'pyln.proto.message']
 
 package_data = \
 {'': ['*']}
